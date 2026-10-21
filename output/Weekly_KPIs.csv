@@ -1,0 +1,146 @@
+week_start,channel,campaign,region,product_category,total_orders,unique_customers,gross_revenue,net_revenue,net_rev_after_ret,margin,returned_count,total_units,return_rate,aov
+2025-11-24,Affiliate,Crm_Dec,Alberta,Office Supplies,1,1,120,60,60,-6,0,1,0,60
+2025-11-24,Affiliate,Partner_Push,Alberta,Furniture,1,1,99.98,99.98,0,-54.989,1,2,1,0
+2025-11-24,Affiliate,Partner_Push,Manitoba,Office Supplies,1,1,119.94,95.952,95.952,29.985,0,6,0,95.95
+2025-11-24,Email,Crm_Dec,Alberta,Apparel,1,1,59.98,29.99,29.99,-2.999,0,2,0,29.99
+2025-11-24,Email,Crm_Dec,Alberta,Electronics,1,1,1999.96,999.98,0,-1099.978,1,4,1,0
+2025-11-24,Email,Meta_Retarget,Manitoba,Apparel,1,1,499.99,499.99,499.99,224.9955,0,1,0,499.99
+2025-11-24,Email,Meta_Retarget,Ontario,Apparel,1,1,179.94,161.946,161.946,62.978999999999985,0,6,0,161.95
+2025-11-24,Email,Partner_Push,Ontario,Furniture,1,1,29.99,26.991,26.991,10.496499999999997,0,1,0,26.99
+2025-11-24,Email,Winter_Sale,British Columbia,Furniture,1,1,59.98,29.99,29.99,-2.999,0,2,0,29.99
+2025-11-24,Organic,No_Campaign,Alberta,Office Supplies,1,1,299.94,254.94899999999998,254.94899999999998,89.98199999999997,0,6,0,254.95
+2025-11-24,Organic,No_Campaign,British Columbia,Beauty,2,2,699.94,599.9440000000001,599.9440000000001,214.977,0,6,0,299.97
+2025-11-24,Organic,No_Campaign,Manitoba,Electronics,1,1,179.94,143.952,143.952,44.984999999999985,0,6,0,143.95
+2025-11-24,Organic,No_Campaign,Ontario,Beauty,1,1,99.94999999999999,99.94999999999999,99.94999999999999,44.97749999999999,0,5,0,99.95
+2025-11-24,Organic,No_Campaign,Ontario,Electronics,1,1,2499.95,2499.95,2499.95,1124.9774999999997,0,5,0,2499.95
+2025-11-24,Organic,No_Campaign,Ontario,Office Supplies,1,1,356,249.2,0,-195.8,1,4,1,0
+2025-11-24,Organic,No_Campaign,Quebec,Beauty,1,1,534,480.6,480.6,186.89999999999998,0,6,0,480.6
+2025-11-24,Paid Search,Meta_Retarget,Ontario,Beauty,1,1,499.99,424.9915,424.9915,149.99699999999996,0,1,0,424.99
+2025-11-24,Paid Search,No_Campaign,Quebec,Office Supplies,1,1,999.96,849.966,849.966,299.98799999999994,0,4,0,849.97
+2025-11-24,Paid Search,Winter_Sale,Ontario,Apparel,1,1,249.99,212.4915,212.4915,74.99699999999999,0,1,0,212.49
+2025-11-24,Paid Social,Crm_Dec,Alberta,Furniture,1,1,534,267,267,-26.7,0,6,0,267
+2025-11-24,Paid Social,Meta_Retarget,Alberta,Furniture,1,1,119.94,59.97,0,-65.967,1,6,1,0
+2025-11-24,Paid Social,Meta_Retarget,Ontario,Apparel,1,1,99.94999999999999,79.96,79.96,24.987499999999997,0,5,0,79.96
+2025-11-24,Paid Social,Partner_Push,Quebec,Apparel,1,1,29.99,29.99,0,-16.4945,1,1,1,0
+2025-12-01,Affiliate,Meta_Retarget,Alberta,Office Supplies,1,1,999.96,699.972,0,-549.978,1,4,1,0
+2025-12-01,Affiliate,Meta_Retarget,Manitoba,Electronics,1,1,1499.97,1199.976,1199.976,374.99250000000006,0,3,0,1199.98
+2025-12-01,Affiliate,No_Campaign,Alberta,Office Supplies,1,1,19.99,15.991999999999999,15.991999999999999,4.997499999999999,0,1,0,15.99
+2025-12-01,Email,Crm_Dec,Ontario,Electronics,1,1,89.97,85.47149999999999,0,-49.4835,1,3,1,0
+2025-12-01,Email,Meta_Retarget,Quebec,Beauty,1,1,49.99,49.99,49.99,22.4955,0,1,0,49.99
+2025-12-01,Email,Partner_Push,British Columbia,Beauty,1,1,249.95000000000002,249.95000000000002,249.95000000000002,112.47749999999999,0,5,0,249.95
+2025-12-01,Organic,No_Campaign,Alberta,Furniture,2,2,169.93,161.934,161.934,68.4725,0,7,0,80.97
+2025-12-01,Organic,No_Campaign,British Columbia,Apparel,1,1,89.97,76.47449999999999,76.47449999999999,26.990999999999985,0,3,0,76.47
+2025-12-01,Organic,No_Campaign,British Columbia,Beauty,1,1,119.94,95.952,95.952,29.985,0,6,0,95.95
+2025-12-01,Organic,No_Campaign,British Columbia,Furniture,1,1,199.96,139.972,139.972,29.994,0,4,0,139.97
+2025-12-01,Organic,No_Campaign,British Columbia,Office Supplies,1,1,1499.94,749.97,749.97,-74.997,0,6,0,749.97
+2025-12-01,Organic,No_Campaign,Manitoba,Beauty,1,1,2499.95,2374.9525,2374.9525,999.9799999999998,0,5,0,2374.95
+2025-12-01,Paid Search,Meta_Retarget,Alberta,Apparel,1,1,99.94999999999999,99.94999999999999,99.94999999999999,44.97749999999999,0,5,0,99.95
+2025-12-01,Paid Search,No_Campaign,British Columbia,Beauty,1,1,199.96,199.96,199.96,89.982,0,4,0,199.96
+2025-12-01,Paid Search,Partner_Push,British Columbia,Furniture,1,1,999.96,899.964,899.964,349.986,0,4,0,899.96
+2025-12-01,Paid Search,Winter_Sale,Alberta,Beauty,1,1,99.98,89.982,89.982,34.992999999999995,0,2,0,89.98
+2025-12-01,Paid Search,Winter_Sale,Quebec,Office Supplies,1,1,79.96,79.96,79.96,35.98199999999999,0,4,0,79.96
+2025-12-01,Paid Social,Crm_Dec,Alberta,Apparel,1,1,499.98,449.982,449.982,174.993,0,2,0,449.98
+2025-12-01,Paid Social,Meta_Retarget,Manitoba,Office Supplies,1,1,39.98,39.98,39.98,17.990999999999996,0,2,0,39.98
+2025-12-01,Paid Social,Winter_Sale,British Columbia,Office Supplies,1,1,199.96,189.962,189.962,79.98399999999998,0,4,0,189.96
+2025-12-08,Affiliate,No_Campaign,Alberta,Furniture,1,1,267,267,267,120.14999999999998,0,3,0,267
+2025-12-08,Affiliate,Partner_Push,British Columbia,Beauty,1,1,1499.94,749.97,0,-824.967,1,6,1,0
+2025-12-08,Email,Crm_Dec,British Columbia,Electronics,1,1,79.96,79.96,79.96,35.98199999999999,0,4,0,79.96
+2025-12-08,Email,Crm_Dec,Ontario,Beauty,1,1,1249.95,874.965,874.965,187.49249999999995,0,5,0,874.96
+2025-12-08,Email,Meta_Retarget,Manitoba,Furniture,1,1,249.95000000000002,249.95000000000002,0,-137.4725,1,5,1,0
+2025-12-08,Email,No_Campaign,Manitoba,Office Supplies,1,1,999.96,899.964,899.964,349.986,0,4,0,899.96
+2025-12-08,Email,Partner_Push,Alberta,Electronics,1,1,59.98,56.980999999999995,56.980999999999995,23.99199999999999,0,2,0,56.98
+2025-12-08,Email,Partner_Push,Alberta,Office Supplies,1,1,99.94999999999999,49.974999999999994,49.974999999999994,-4.9975,0,5,0,49.97
+2025-12-08,Email,Partner_Push,Manitoba,Furniture,1,1,119.94,119.94,119.94,53.973,0,6,0,119.94
+2025-12-08,Email,Winter_Sale,British Columbia,Furniture,1,1,1249.95,1062.4575,1062.4575,374.9849999999999,0,5,0,1062.46
+2025-12-08,Email,Winter_Sale,Quebec,Furniture,1,1,149.97,149.97,149.97,67.48649999999999,0,3,0,149.97
+2025-12-08,Organic,No_Campaign,Alberta,Apparel,1,1,89,75.64999999999999,75.64999999999999,26.69999999999999,0,1,0,75.65
+2025-12-08,Organic,No_Campaign,British Columbia,Beauty,1,1,499.98,349.986,349.986,74.99699999999996,0,2,0,349.99
+2025-12-08,Organic,No_Campaign,Ontario,Electronics,1,1,2999.94,2999.94,2999.94,1349.973,0,6,0,2999.94
+2025-12-08,Organic,No_Campaign,Quebec,Beauty,1,1,1249.95,1062.4575,1062.4575,374.9849999999999,0,5,0,1062.46
+2025-12-08,Paid Search,Crm_Dec,Ontario,Electronics,1,1,149.95,134.95499999999998,134.95499999999998,52.48249999999999,0,5,0,134.95
+2025-12-08,Paid Search,Meta_Retarget,Quebec,Office Supplies,1,1,249.99,124.995,124.995,-12.4995,0,1,0,125
+2025-12-08,Paid Search,No_Campaign,Alberta,Office Supplies,1,1,120,120,120,54,0,1,0,120
+2025-12-08,Paid Search,Partner_Push,British Columbia,Office Supplies,1,1,179.94,179.94,179.94,80.97299999999998,0,6,0,179.94
+2025-12-08,Paid Search,Winter_Sale,British Columbia,Office Supplies,1,1,89.97,89.97,89.97,40.48649999999999,0,3,0,89.97
+2025-12-08,Paid Search,Winter_Sale,Ontario,Furniture,1,1,999.98,999.98,999.98,449.991,0,2,0,999.98
+2025-12-08,Paid Search,Winter_Sale,Quebec,Apparel,1,1,59.98,29.99,29.99,-2.999,0,2,0,29.99
+2025-12-08,Paid Search,Winter_Sale,Quebec,Furniture,1,1,49.99,47.4905,47.4905,19.995999999999995,0,1,0,47.49
+2025-12-08,Paid Social,Crm_Dec,Alberta,Electronics,1,1,720,720,720,323.99999999999994,0,6,0,720
+2025-12-08,Paid Social,Meta_Retarget,Alberta,Furniture,1,1,19.99,18.990499999999997,18.990499999999997,7.995999999999997,0,1,0,18.99
+2025-12-15,Affiliate,Crm_Dec,Quebec,Beauty,1,1,2499.95,1749.9649999999997,1749.9649999999997,374.9924999999996,0,5,0,1749.96
+2025-12-15,Affiliate,Partner_Push,Ontario,Furniture,1,1,149.95,149.95,0,-82.4725,1,5,1,0
+2025-12-15,Affiliate,Winter_Sale,Manitoba,Apparel,1,1,149.95,149.95,149.95,67.47749999999999,0,5,0,149.95
+2025-12-15,Email,No_Campaign,British Columbia,Office Supplies,1,1,89,89,0,-48.95,1,1,1,0
+2025-12-15,Email,No_Campaign,Quebec,Furniture,1,1,89,44.5,0,-48.95,1,1,1,0
+2025-12-15,Email,Winter_Sale,Manitoba,Apparel,1,1,99.94999999999999,79.96,0,-54.9725,1,5,1,0
+2025-12-15,Email,Winter_Sale,Quebec,Beauty,1,1,179.94,89.97,89.97,-8.997,0,6,0,89.97
+2025-12-15,Organic,No_Campaign,Alberta,Apparel,1,1,1249.95,624.975,624.975,-62.4975,0,5,0,624.98
+2025-12-15,Organic,No_Campaign,Alberta,Beauty,1,1,79.96,75.96199999999999,75.96199999999999,31.983999999999988,0,4,0,75.96
+2025-12-15,Organic,No_Campaign,British Columbia,Office Supplies,1,1,534,267,0,-293.7,1,6,1,0
+2025-12-15,Organic,No_Campaign,Manitoba,Office Supplies,1,1,59.98,29.99,29.99,-2.999,0,2,0,29.99
+2025-12-15,Organic,No_Campaign,Quebec,Beauty,1,1,1499.97,1499.97,1499.97,674.9865,0,3,0,1499.97
+2025-12-15,Organic,No_Campaign,Quebec,Electronics,1,1,240,204,0,-132,1,2,1,0
+2025-12-15,Paid Search,No_Campaign,British Columbia,Office Supplies,1,1,199.96,169.966,0,-109.978,1,4,1,0
+2025-12-15,Paid Search,No_Campaign,Ontario,Furniture,1,1,299.94,299.94,0,-164.967,1,6,1,0
+2025-12-15,Paid Search,Partner_Push,British Columbia,Electronics,1,1,59.98,53.982,0,-32.989,1,2,1,0
+2025-12-15,Paid Search,Winter_Sale,Ontario,Furniture,1,1,240,240,240,108,0,2,0,240
+2025-12-15,Paid Social,Crm_Dec,British Columbia,Furniture,1,1,499.98,249.99,249.99,-24.999,0,2,0,249.99
+2025-12-15,Paid Social,Meta_Retarget,Alberta,Office Supplies,1,1,19.99,15.991999999999999,0,-10.9945,1,1,1,0
+2025-12-15,Paid Social,Meta_Retarget,Quebec,Beauty,1,1,360,180,180,-18,0,3,0,180
+2025-12-15,Paid Social,No_Campaign,Ontario,Electronics,1,1,199.96,139.972,139.972,29.994,0,4,0,139.97
+2025-12-15,Paid Social,Partner_Push,British Columbia,Beauty,1,1,267,133.5,0,-146.85,1,3,1,0
+2025-12-15,Paid Social,Partner_Push,Quebec,Furniture,1,1,499.99,249.995,249.995,-24.9995,0,1,0,250
+2025-12-15,Paid Social,Winter_Sale,Alberta,Apparel,1,1,249.99,237.4905,0,-137.4945,1,1,1,0
+2025-12-22,Affiliate,No_Campaign,Alberta,Office Supplies,1,1,600,600,0,-330,1,5,1,0
+2025-12-22,Affiliate,No_Campaign,Quebec,Furniture,1,1,119.94,107.946,107.946,41.979,0,6,0,107.95
+2025-12-22,Affiliate,Partner_Push,Quebec,Apparel,1,1,999.98,699.986,699.986,149.99699999999996,0,2,0,699.99
+2025-12-22,Affiliate,Partner_Push,Quebec,Electronics,1,1,480,480,0,-264,1,4,1,0
+2025-12-22,Email,Crm_Dec,British Columbia,Beauty,1,1,445,311.5,311.5,66.74999999999997,0,5,0,311.5
+2025-12-22,Email,Meta_Retarget,British Columbia,Electronics,1,1,1499.97,1049.979,0,-824.9835,1,3,1,0
+2025-12-22,Email,Partner_Push,Alberta,Apparel,1,1,119.94,101.949,101.949,35.982,0,6,0,101.95
+2025-12-22,Email,Partner_Push,British Columbia,Furniture,1,1,299.94,299.94,299.94,134.97299999999998,0,6,0,299.94
+2025-12-22,Email,Partner_Push,Manitoba,Electronics,1,1,1499.94,1499.94,1499.94,674.973,0,6,0,1499.94
+2025-12-22,Email,Winter_Sale,Ontario,Electronics,1,1,445,222.5,222.5,-22.25,0,5,0,222.5
+2025-12-22,Organic,No_Campaign,Alberta,Apparel,1,1,119.96,83.972,83.972,17.993999999999986,0,4,0,83.97
+2025-12-22,Organic,No_Campaign,Manitoba,Apparel,1,1,120,120,120,54,0,1,0,120
+2025-12-22,Organic,No_Campaign,Ontario,Beauty,1,1,99.98,99.98,99.98,44.991,0,2,0,99.98
+2025-12-22,Paid Search,Meta_Retarget,British Columbia,Beauty,1,1,360,251.99999999999997,251.99999999999997,53.99999999999994,0,3,0,252
+2025-12-22,Paid Search,No_Campaign,Alberta,Apparel,1,1,89,75.64999999999999,75.64999999999999,26.69999999999999,0,1,0,75.65
+2025-12-22,Paid Social,Crm_Dec,British Columbia,Electronics,1,1,299.94,149.97,149.97,-14.997,0,6,0,149.97
+2025-12-22,Paid Social,Crm_Dec,Manitoba,Apparel,1,1,249.99,212.4915,212.4915,74.99699999999999,0,1,0,212.49
+2025-12-22,Paid Social,No_Campaign,Alberta,Apparel,1,1,29.99,23.992,23.992,7.497499999999999,0,1,0,23.99
+2025-12-22,Paid Social,No_Campaign,Quebec,Office Supplies,1,1,1499.97,1424.9714999999999,1424.9714999999999,599.9879999999998,0,3,0,1424.97
+2025-12-22,Paid Social,Winter_Sale,Ontario,Beauty,1,1,249.99,237.4905,237.4905,99.99599999999998,0,1,0,237.49
+2025-12-29,Affiliate,Meta_Retarget,British Columbia,Furniture,1,1,999.98,999.98,999.98,449.991,0,2,0,999.98
+2025-12-29,Affiliate,Partner_Push,Quebec,Electronics,1,1,99.94999999999999,79.96,79.96,24.987499999999997,0,5,0,79.96
+2025-12-29,Affiliate,Winter_Sale,British Columbia,Beauty,1,1,29.99,26.991,26.991,10.496499999999997,0,1,0,26.99
+2025-12-29,Email,Meta_Retarget,Alberta,Electronics,1,1,267,253.64999999999998,253.64999999999998,106.79999999999995,0,3,0,253.65
+2025-12-29,Email,No_Campaign,Manitoba,Beauty,2,2,594.97,549.979,104.979,-222.2545,1,8,0.5,52.49
+2025-12-29,Email,No_Campaign,Manitoba,Electronics,1,1,999.96,899.964,899.964,349.986,0,4,0,899.96
+2025-12-29,Email,Partner_Push,Manitoba,Furniture,1,1,119.94,83.958,83.958,17.991,0,6,0,83.96
+2025-12-29,Email,Partner_Push,Quebec,Beauty,1,1,119.96,59.98,59.98,-5.998,0,4,0,59.98
+2025-12-29,Email,Winter_Sale,British Columbia,Apparel,1,1,89.97,62.97899999999999,62.97899999999999,13.495499999999986,0,3,0,62.98
+2025-12-29,Email,Winter_Sale,Quebec,Furniture,1,1,59.98,29.99,0,-32.989,1,2,1,0
+2025-12-29,Organic,No_Campaign,Manitoba,Beauty,2,2,179.93,143.942,143.942,44.980499999999985,0,7,0,71.97
+2025-12-29,Paid Search,Meta_Retarget,Manitoba,Office Supplies,1,1,120,120,120,54,0,1,0,120
+2025-12-29,Paid Search,No_Campaign,Alberta,Electronics,1,1,360,360,360,161.99999999999997,0,3,0,360
+2025-12-29,Paid Search,No_Campaign,Ontario,Apparel,1,1,999.96,999.96,999.96,449.98199999999997,0,4,0,999.96
+2025-12-29,Paid Search,No_Campaign,Quebec,Furniture,1,1,999.96,499.98,499.98,-49.998,0,4,0,499.98
+2025-12-29,Paid Search,Winter_Sale,Alberta,Beauty,1,1,199.96,169.966,169.966,59.988,0,4,0,169.97
+2025-12-29,Paid Search,Winter_Sale,Alberta,Furniture,1,1,2999.94,2999.94,2999.94,1349.973,0,6,0,2999.94
+2025-12-29,Paid Search,Winter_Sale,Manitoba,Furniture,2,2,1177.98,1124.58,124.6,-523.289,1,4,0.5,62.3
+2025-12-29,Paid Social,Meta_Retarget,Manitoba,Office Supplies,1,1,99.94999999999999,49.974999999999994,49.974999999999994,-4.9975,0,5,0,49.97
+2025-12-29,Paid Social,No_Campaign,Quebec,Office Supplies,1,1,199.96,199.96,199.96,89.982,0,4,0,199.96
+2026-01-05,Affiliate,No_Campaign,Alberta,Office Supplies,1,1,249.99,237.4905,237.4905,99.99599999999998,0,1,0,237.49
+2026-01-05,Affiliate,No_Campaign,Quebec,Furniture,1,1,79.96,67.966,67.966,23.987999999999992,0,4,0,67.97
+2026-01-05,Affiliate,Partner_Push,Alberta,Electronics,1,1,2999.94,1499.97,1499.97,-149.997,0,6,0,1499.97
+2026-01-05,Organic,No_Campaign,Alberta,Electronics,1,1,179.94,161.946,161.946,62.978999999999985,0,6,0,161.95
+2026-01-05,Organic,No_Campaign,British Columbia,Furniture,1,1,120,114,0,-66,1,1,1,0
+2026-01-05,Organic,No_Campaign,Manitoba,Furniture,1,1,99.98,94.981,0,-54.989,1,2,1,0
+2026-01-05,Organic,No_Campaign,Quebec,Office Supplies,1,1,1499.97,1499.97,1499.97,674.9865,0,3,0,1499.97
+2026-01-05,Paid Search,Meta_Retarget,Alberta,Office Supplies,1,1,2999.94,2699.946,2699.946,1049.9789999999998,0,6,0,2699.95
+2026-01-05,Paid Search,No_Campaign,Quebec,Apparel,1,1,360,251.99999999999997,251.99999999999997,53.99999999999994,0,3,0,252
+2026-01-05,Paid Search,Partner_Push,Manitoba,Electronics,1,1,360,288,288,89.99999999999997,0,3,0,288
+2026-01-05,Paid Social,Meta_Retarget,Quebec,Electronics,1,1,2499.95,1999.96,1999.96,624.9875,0,5,0,1999.96
+2026-01-05,Paid Social,Winter_Sale,British Columbia,Office Supplies,1,1,249.95000000000002,249.95000000000002,249.95000000000002,112.47749999999999,0,5,0,249.95
+2026-01-05,Paid Social,Winter_Sale,Manitoba,Apparel,1,1,360,324,324,125.99999999999997,0,3,0,324
